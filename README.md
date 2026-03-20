@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h3 align="center">A passionate developer </h3>
 # 💫 About Me:
 👋 About Me<br>🚀 Passionate CSE student exploring the world of technology  <br>💻 Love building websites, solving problems, and learning new skills  <br><br>🔭 Currently working on:  <br>Full-stack projects & AI/ML experiments  <br><br>🌱 Currently learning:  <br>MERN Stack | Machine Learning | Data Structures  <br><br>🤝 Open to:  <br>Collaborations, internships, and open-source contributions  <br><br>💬 Ask me about:  <br>Web Development, Python, and project ideas  <br><br>⚡ Fun fact:  <br>I enjoy debugging more than writing code 😄  
 
