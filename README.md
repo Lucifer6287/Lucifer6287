@@ -82,31 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lucifer628&theme=tokyonight&show_icons=true" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Lucifer628&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer628&theme=tokyonight&layout=compact" />
-</p>
-
----
-
-## 📈 Coding Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/ru2pYVbkw1?theme=dark&font=baloo&ext=contest" />
-</p>
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lucifer628&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 🐍 Contribution Snake 
 
 <p align="center"> 
